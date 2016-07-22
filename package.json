@@ -1,0 +1,25 @@
+{
+  "name": "hubot-room-guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "00-room-guard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ringohub/hubot-room-guard.git"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "Yoshiki Aoki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ringohub/hubot-room-guard/issues"
+  },
+  "homepage": "https://github.com/ringohub/hubot-room-guard#readme",
+  "engines": {
+    "node": "6"
+  }
+}
