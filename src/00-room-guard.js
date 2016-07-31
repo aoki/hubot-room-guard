@@ -10,7 +10,7 @@ var _ = require('lodash');
 
 function loadConfig(str) {
   try {
-    if (str === '') return [];
+    if (typeof str === 'undefined') return [];
     else return JSON.parse(str);
   } catch (e) {
     return console.error(e);
